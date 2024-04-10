@@ -18,20 +18,23 @@ key,Medical diagnose(s),medication,result
 1|5|Sister Mary Augustine,Churg-Strauss syndrome,prednisone,immunocompromised
 1|5|Sister Mary Augustine,long term allergy,clean room,anaphylactic shock
 1|5|Sister Mary Augustine,Allergic reaction to copper IUD,surgery,cure
-1|6|Lucy Palmeiro,
-1|6|Lucy Palmeiro,
-1|6|Lucy Palmeiro,
-1|6|Lucy Palmeiro,
-1|6|Lucy Palmeiro,
-1|6|Lucy Palmeiro,
+1|6|Lucy Palmeiro,intake,stop schizophrenia medication,psycotic outburst
+1|6|Lucy Palmeiro,psycotic outburst,Haldol,vomiting blood
+1|6|Lucy Palmeiro,Vitamin K deficiency,Vitamin K,cure
+1|6|Lucy Palmeiro,liver tumor,(unethical) liver transplant,cure
+1|6|Lucy Palmeiro,schizophrenia dignosis,treatment,cure
+1|7|Elise Snow,
+1|7|Elise Snow,
+1|7|Elise Snow,
+1|7|Elise Snow,
+1|7|Elise Snow,
+1|7|Elise Snow,
 
 
 
 
 
 
-
-1,6,The Socratic Method,Lucy Palmeiro,Vitamin K deficiency;liver cancer;Wilson's disease,1|6|Lucy Palmeiro
 1,7,Fidelity,Elise Snow,African trypanosomiasis,1|7|Elise Snow
 1,8,Poison,Matt Davis;Chi Ling,Organophosphate poisoning,1|8|Matt Davis;Chi Ling
 1,9,DNR,John Henry Giles,Arteriovenous malformation,1|9|John Henry Giles
