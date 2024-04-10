@@ -109,38 +109,8 @@ season_no,episode_no,Episode_name,Patient(s),Final_diagnose(s),episode_key
 5,22,House Divided,Seth Miller,Sarcoidosis,5|22 
 5,23,Under My Skin,Penelope;House,Gonorrhea (Penelope);Vicodin addiction (House),5|23
 5,24,Both Sides Now,Scott;Eugene Schwartz;House,Propylene glycol toxicity (Scott);Pancreatic tumor (Eugene Schwartz);Psychosis (House),5|24
-Episode Sex 
-Age 
-(Years) 
-Duration 
-(Min) 
-Examinations and 
-Interventions (n) Final Diagnosis Outcome 
-Viewers 
-(Audience %) 
-1 42:53 33 
-2 44:22 33 
-3 Male 40 41:59 13 Fabry disease Alive 33 
-4 Male 83 43:03 9 Uncertain Dead 32 
-5 Male 39 42:39 7 Cerebral aneurysm Alive 32 
-6 Male 10 42:53 15 Antiphospholipid antibody syndrome Alive 33 
-7 Female 16 43:04 7 Hemochromatosis Alive 33 
-8 Male 40 42:55 18 Crohn disease Alive 33 
-9 Male 32 43:02 15 Supernumerary spleen Alive 35 
-10 Male 52 42:58 10 Acute lymphoblastic leukemia Alive 31 
-11 Male 35 42:49 15 Hughes-Stovin syndrome Dead 33 
-12 Female 35 42:52 9 Wilson disease Alive 33 
-13 Male 22 43:13 17 Melanoma Alive 35 
-14 43:02 32 
-15 Female 28 42:12 11 Whipple disease Alive 35 
-16 Female 18 42:05 14 Schistosomiasis Alive 35 
-17 42:12 36 
-18 Male 23 42:14 17 Intoxication Alive 30 
-19 Female 35 42:12 21 Rheumatic purpura Alive 33 
-20 Male 27 42:11 14 Arnold Chiari deformity Alive 33 
-21 Female 30 42:13 7 Allergy Alive 33 
-22 Male 21 43:11 6 Arachnoidea cyst Alive 33 
-Episodes 1, 2, 14, and 17 we
+6,1,,,,6|1
+6,2,,,,6|2
 6,3,Epic Fail,Vince Pearson,Fabry disease,6|3 
 6,4,The Tyrant,President Dibala;Murphy,Blastomycosis (Dibala);phantom limb (Murphy),6|4 
 6,5,Instant Karma,Jack Randall,Primary Antiphospholipid syndrome,6|5 
@@ -152,9 +122,11 @@ Episodes 1, 2, 14, and 17 we
 6,11,The Down Low,Mickey,Hughes-Stovin syndrome,6|11
 6,12,Remorse,Valerie,Psychopathy secondary to Wilson's disease,6|12
 6,13,Moving the Chains,Daryl,Paraneoplastic syndrome secondary to melanoma,6|13
+6,14,,,,6|14
 6,15,Private Lives,Frankie,Whipple's disease,6|15
 6,16,Black Hole,Abby Nash,Cerebellar schistosomiasis delayed hypersensitivity allergy,6|16 
 6,18,Knight Fall,Sir William,Anabolic steroid abuse accelerated by hemlock poison,6|18 
+6,17,,,,6|17
 6,19,Open and Shut,Julia,Henoch-Schönlein Purpura,6|19
 6,20,The Choice,Ted,Arnold-Chiari Malformation,6|20
 6,21,Baggage,Sidney,Allergic reaction to tattoo ink,6|21
