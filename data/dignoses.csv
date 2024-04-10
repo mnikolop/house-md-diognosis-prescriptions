@@ -1,15 +1,16 @@
-episode_key,Medical diagnose(s),medication,result
+key,Medical diagnose(s),medication,result
 1|1|Rebecca Adler,brain tumor,radiation therapy,no improvement
-1|1|Rebecca Adler,vasculitis,prednisone,seizure;cardiac arrest
-1|1|Rebecca Adler,neurocysticercosis (a tapeworm),two pills a day for a month,cure
+1|1|Rebecca Adler,ceribral vasculitis,prednisone,seizure;cardiac arrest
+1|1|Rebecca Adler,neurocysticercosis (a tapeworm),albendazol,cure
+1|2|Dan Subacute,sexual abuse,NA,NA
 1|2|Dan Subacute,blockage in the corpus callosum,surgery,no improvement
-1|2|Dan Subacute,multiple sclerosis,medication;lumbar puncture,no improvement
-1|2|Dan Subacute,syphilis,penicillin,tremors;auditory hallucinations;double vision
+1|2|Dan Subacute,multiple sclerosis,medication;lumbar puncture,hallucinations
+1|2|Dan Subacute,neurosyphilis,penicillin,tremors;auditory hallucinations;double vision
 1|2|Dan Subacute,subacute sclerosing panencephalitis,interferon,cure
-1|3|Brandon Merrell,NA,antibiotics,kidney collapse
+1|3|Brandon Merrell,NA,antibiotics,kidney failure
 1|3|Brandon Merrell,sinus infection;hypothyroidism,treatment,improved condition
-1|3|Brandon Merrell,gout medication Colchicine instead of cough medicine,exploratory surgery,cardiac arrest
-1|3|Brandon Merrell,gout medication Colchicine instead of cough medicine,NA,cure
+1|3|Brandon Merrell,lymphoma,exploratory surgery,cardiac arrest
+1|3|Brandon Merrell,Colchicine toxicity,fab-fragments,cure
 1|4|Baby Girl Hartig;Baby Boy Howson;Baby Boy Chen-Lupino;X,cabterial infection,vancomycin;aztreonam,kindey failutre;death
 1|4|Baby Girl Hartig;Baby Boy Howson;Baby Boy Chen-Lupino;X,Echovirus 11,experimental treatment,cure
 1|5|Sister Mary Augustine,contact dermatitis,diphenhydramine,asthma attack

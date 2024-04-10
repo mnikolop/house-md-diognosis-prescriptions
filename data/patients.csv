@@ -1,0 +1,200 @@
+Patient(s),age,race,gender,other_notes,episode_key
+Rebecca Adler,28-35,caucasian,F,NA,1|1
+Dan Subacute,16-18,caucasian,M,adopted,1|2
+Brandon Merrell,18-14,caucasian,M,NA,1|3
+Baby Girl Hartig,0,caucasian,F,baby,1|4
+Baby Boy Howson,0,caucasian,M,baby,1|4
+Baby Boy Chen-Lupino,0,asian,M,baby,1|4
+Baby X,0,NA,NA,baby,1|4
+Sister Mary Augustine,25-35,caucasian,F,nun,1|5
+Lucy Palmeiro,35-45,caucasian,F,NA,1|6
+Elise Snow,,,,,1|7
+Matt Davis;Chi Ling,,,,,1|8
+John Henry Giles,,,,,1|9
+Victoria Madsen,,,,,1|10
+Keith Foster,,,,,1|11
+Hank Wiggen,,,,,1|12
+Gabriel Reilich,,,,,1|13
+Carly Forlano,,,,,1|14
+Joey Arnello,,,,,1|15
+Jessica Simms,,,,,1|16
+Gary H. Wright,,,,,1|17
+Naomi Randolph,,,,,1|18
+Mary Carroll,,,,,1|19
+Harvey Park,,,,,1|20
+The Farmer,,,,,1|21
+Volleyball Player,,,,,1|21
+Carmen Electra/Middle aged man/Gregory House,,,,,1|21
+Mark Warner,,,,,1|22
+Clarence,,,,,2|1
+Andie,,,,,2|2
+Alfredo,,,,,2|3
+Dr. Sebastian Charles,,,,,2|4
+Carnell Hall,,,,,2|5
+Jeff Forster,,,,,2|6
+Kalvin Ryan,,,,,2|7
+Kayla McGinley,,,,,2|8
+Anica Jovanovich,,,,,2|9
+Fletcher Stone,,,,,2|10
+Margo Dalton,,,,,2|11
+Adam,,,,,2|12
+Alex,,,,,2|13
+Howard Hesseman,,,,,2|14
+Bob Palko,,,,,2|15
+Melinda Bardach,,,,,2|16
+Ian Alston,,,,,2|17
+Hannah,,,,,2|18
+Boyd,,,,,2|19
+Joe Luria,,,,,2|20
+Eric Foreman,,,,,2|21
+Kara Mason,,,,,2|22
+Leona,,,,,2|23
+Gregory House,,,,,2|24
+Richard McNeil,,,,,3|1
+Caren Krause,,,,,3|1
+Clancy Green,,,,,3|2
+Ezra Powell,,,,,3|3
+Adam Kelvey,,,,,3|4
+Tracy;Jeremy,,,,,3|5
+George,,,,,3|6
+Kyle Wozniak,,,,,3|7
+Jack Walters,,,,,3|8
+Alice Hartman,,,,,3|9
+Abigail Ralphean,,,,,3|10
+Derek Hoyt,,,,,3|11
+Ear Patient,,,,,3|12
+Paciente,,,,,3|12
+Eve,,,,,3|12
+Paciente,,,,,3|12
+Stevie Lipa,,,,,3|13
+Hannah Morgenthal,,,,,3|14
+Patrick Obyedkov,,,,,3|15
+John Kelley,,,,,3|16
+Emma Sloan,,,,,3|17
+Fran,,,,,3|18
+Peng,,,,,3|18
+Jasper;Lucy,,,,,3|19
+Lupe,,,,,3|20
+Matty,,,,,3|21
+Addie,,,,,3|22
+Nate,,,,,3|23
+Marina Hernandez,,,,,3|24
+Liz Masters,,,,,4|1
+Greta Cooper,,,,,4|2
+Thomas Stark,,,,,4|3
+Irene,,,,,4|4
+Robert Elliot,,,,,4|5
+Casey Alfonso,,,,,4|6
+John,,,,,4|6
+Kenny,,,,,4|7
+Flynn,,,,,4|8
+Jimmy Quidd,,,,,4|9
+Maggie,,,,,4|10
+Dr. Cate Milton,,,,,4|11
+Roz,,,,,4|12
+Jeff,,,,,4|13
+Evan Greer,,,,,4|14
+Bus driver,,,,,4|15
+Amber Volakis,,,,,4|16
+Lou,,,,,5|1
+Apple,,,,,5|2
+Brandon,,,,,5|3
+Nicole,,,,,5|4
+Spencer,,,,,5|5
+Jerry Harmon;Samantha Harmon,,,,,5|6
+Stewart Nozick,,,,,5|7
+Sophia Isabel Velez,,,,,5|8
+Jonah,,,,,5|8
+Jason,,,,,5|9
+Emmy,,,,,5|10
+Natalie Soellner,,,,,5|11
+Jeff,,,,,5|12
+Sarah,,,,,5|13
+Dana Miller,,,,,5|14
+Daniel Bresson,,,,,5|15
+Jackson Smith,,,,,5|16
+Nick Greenwald,,,,,5|17
+Morgan West,,,,,5|18
+Lee,,,,,5|19
+Charlotte and Eddie Novack,,,,,5|20
+Doug Svensen,,,,,5|21
+Seth Miller,,,,,5|22
+Penelope,,,,,5|23
+House,,,,,5|23
+Scott,,,,,5|24
+Eugene Schwartz,,,,,5|24
+House,,,,,5|24
+,,,,,6|1
+,,,,,6|2
+Vince Pearson,40,,M,,6|3
+President Dibala,83,,M,dictator;intentional medical malpractice,6|4
+Murphy,,,,,6|4
+Jack Randall,39,,M,,6|5
+Donny Compson,10,,M,,6|6
+Jordan,16,,F,,6|7
+Hank Hardwick,40,,M,,6|8
+James Sidas,32,,M,,6|9
+Tucker,52,,M,,6|10
+Mickey,35,,M,,6|11
+Valerie,35,,F,,6|12
+Daryl,22,,M,,6|13
+,,,,,6|14
+Frankie,28,,F,,6|15
+Abby Nash,18,,F,,6|16
+,,,,,6|17
+Sir William,23,,M,,6|18
+Julia,35,,F,,6|19
+Ted,27,,M,,6|20
+Sidney,30,,F,,6|21
+Hanna,,,,,6|22
+Jay,21,,M,,6|22
+Dr. Richardson,,,,,7|1
+Della,,,,,7|2
+Alice Tanner,,,,,7|3
+Margaret McPherson,,,,,7|4
+Abbey,,,,,7|5
+Kayla,,,,,7|5
+Joe Dugan,,,,,7|6
+Julie,,,,,7|7
+Ramon Silva,,,,,7|8
+Jack,,,,,7|9
+Driscoll and Landon Parks,,,,,7|10
+Arlene Cuddy,,,,,7|11
+Nadia,,,,,7|12
+Phillip Wright,,,,,7|13
+Bert Eskey,,,,,7|14
+Ryan,,,,,7|15
+Cuddy,,,,,7|15
+Lane,,,,,7|16
+Danny Jennings,,,,,7|17
+Nina,,,,,7|18
+Brian,,,,,7|18
+Kendall Pearson,,,,,7|19
+Cyrus Harry,,,,,7|20
+Dr. Wendy Lee,,,,,7|21
+Terry Foley,,,,,7|21
+Darrien,,,,,7|22
+Afsoun Hamidi,,,,,7|23
+Nick,,,,,8|1
+Two lungs in a box,,,,,8|2
+Benjamin Byrd,,,,,8|3
+Thad Barton,,,,,8|4
+Bob Harris,,,,,8|5
+Ben Parker,,,,,8|6
+Iris,,,,,8|7
+Drew Lemayne,,,,,8|7
+Tommy,,,,,8|8
+Andres Tavares,,,,,8|9
+Callie Rogers,,,,,8|10
+Bill Koppelman,,,,,8|11
+Moira Parker,,,,,8|12
+Joe Reese,,,,,8|13
+Will Westwood,,,,,8|14
+Brant Macklin,,,,,8|15
+Bobby Hatcher,,,,,8|16
+Henry,,,,,8|17
+Lue,,,,,8|18
+Emily Lawson,,,,,8|19
+Dr. Penza,,,,,8|20
+Derrick,,,,,8|21
+Oliver,,,,,8|22

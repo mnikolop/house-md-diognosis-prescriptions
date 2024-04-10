@@ -1,193 +1,207 @@
-season-no,episode-no,Episode-name,Patient(s),Medical diagnose(s),episode_key
-1,1,Pilot,Rebecca Adler,Neurocysticercosis,1|1|Rebecca Adler
-1,2,Paternity,Dan Subacute,sclerosing panencephalitis,1|2|Dan Subacute
-1,3,Occam's Razor,Brandon Merrell,Colchicine poisoning,1|3|Brandon Merrell
-1,4,Maternity,Baby Girl Hartig;Baby Boy Howson;Baby Boy Chen-Lupino;X,Echovirus 11,1|4|Baby Girl Hartig;Baby Boy Howson;Baby Boy Chen-Lupino;X
-1,5,Damned If You Do,Sister Mary Augustine,Allergic reaction to copper IUD,1|5|Sister Mary Augustine
-1,6,The Socratic Method,Lucy Palmeiro,Vitamin K deficiency;liver cancer;Wilson's disease,1|6|Lucy Palmeiro
-1,7,Fidelity,Elise Snow,African trypanosomiasis,1|7|Elise Snow
-1,8,Poison,Matt Davis;Chi Ling,Organophosphate poisoning,1|8|Matt Davis;Chi Ling
-1,9,DNR,John Henry Giles,Arteriovenous malformation,1|9|John Henry Giles
-1,10,Histories,Victoria Madsen,Rabies,1|10|Victoria Madsen
-1,11,Detox,Keith Foster,Naphthalene poisoning,1|11|Keith Foster
-1,12,Sports Medicine,Hank Wiggen,Cadmium poisoning,1|12|Hank Wiggen
-1,13,Cursed,Gabriel Reilich,Leprosy,1|13|Gabriel Reilich
-1,14,Control,Carly Forlano,Congestive heart failure due to drug abuse,1|14|Carly Forlano
-1,15,Mob Rules,Joey Arnello,Ornithine Transcarbamylase Deficiency,1|15|Joey Arnello
-1,16,Heavy,Jessica Simms,Cushing's disease,1|16|Jessica Simms
-1,17,Role Model,Gary H. Wright,Common variable immunodeficiency disease from interaction of Epstein-Barr virus with anti-seizure medication,1|17|Gary H. Wright
-1,18,Babies & Bathwater,Naomi Randolph,Small-cell lung cancer,1|18|Naomi Randolph
-1,19,Kids,Mary Carroll,Thrombotic thrombocytopenic purpura,1|19|Mary Carroll
-1,20,Love Hurts,Harvey Park,Fulminating osteomyelitis,1|20|Harvey Park
-1,21,Three Stories,The Farmer,Necrotizing fasciitis,1|21|The Farmer
-1,21,Three Stories,Volleyball Player,Cancerous adenoma,1|21|Volleyball Player
-1,21,Three Stories,Carmen Electra/Middle aged man/Gregory House,Necrosis due to muscle death due to infarction due to clot due to aneurysm,1|21|Carmen Electra/Middle aged man/Gregory House
-1,22,Honeymoon,Mark Warner,Acute intermittent porphyria,1|22|Mark Warner
-2,1,Acceptance,Clarence,Pheochromocytoma,2|1|Clarence
-2,2,Autopsy,Andie,Brain thrombosis,2|2|Andie
-2,3,Humpty Dumpty,Alfredo,Psittacosis,2|3|Alfredo
-2,4,TB or Not TB,Dr. Sebastian Charles,Nesidioblastoma,2|4|Dr. Sebastian Charles
-2,5,Daddy's Boy,Carnell Hall,Radiation induced cavernous angioma and radiation sickness,2|5|Carnell Hall
-2,6,Spin,Jeff Forster,Myasthenia gravis;pure red cell aplasia;thymoma,2|6|Jeff Forster
-2,7,Hunting,Kalvin Ryan,Echinococcosis,2|7|Kalvin Ryan
-2,8,The Mistake,Kayla McGinley,Behcet's disease;Perforated ulcer;sepsis;liver failure;hepatoma,2|8|Kayla McGinley
-2,9,Deception,Anica Jovanovich,Clostridium perfringens infection;Münchausen syndrome,2|9|Anica Jovanovich
-2,10,Failure to Communicate,Fletcher Stone,Cerebral Malaria,2|10|Fletcher Stone
-2,11,Need to Know,Margo Dalton,Hepatocellular adenoma,2|11|Margo Dalton
-2,12,Distractions,Adam,Serotonin syndrome,2|12|Adam
-2,13,Skin Deep,Alex,Testicular cancer,2|13|Alex
-2,14,Sex Kills,Howard Hesseman,Brucellosis,2|14|Howard Hesseman
-2,15,Clueless,Bob Palko,Gold poisoning,2|15|Bob Palko
-2,16,Safe,Melinda Bardach,Tick paralysis,2|16|Melinda Bardach
-2,17,All In,Ian Alston,Erdheim-Chester disease,2|17|Ian Alston
-2,18,Sleeping Dogs Lie,Hannah,Bubonic plague,2|18|Hannah
-2,19,House vs. God,Boyd,Tuberous sclerosis;Herpes encephalitis,2|19|Boyd
-2,20,Euphoria (Part 1),Joe Luria,Legionellosis,2|20|Joe Luria
-2,21,Euphoria (Part 2),Eric Foreman,Legionellosis (induced) and Primary amoebic meningoencephalitis,2|21|Eric Foreman
-2,22,Forever,Kara Mason,Pellagra and Vitamin K deficiency caused by Celiac disease,2|22|Kara Mason
-2,23,Who's Your Daddy?,Leona,Zygomycosis,2|23|Leona
-2,24,No Reason,Gregory House,Hallucination from trauma,2|24|Gregory House
-3,1,Meaning,Richard McNeil,Addison's Disease,3|1|Richard McNeil
-3,1,Meaning,Caren Krause,Scurvy,3|1|Caren Krause
-3,2,Cane & Able,Clancy Green,Chimerism,3|2|Clancy Green
-3,3,Informed Consent,Ezra Powell,Senile amyloidosis,3|3|Ezra Powell
-3,4,Lines in the Sand,Adam Kelvey,Baylisascaris,3|4|Adam Kelvey
-3,5,Fools for Love,Tracy;Jeremy,Hereditary Angioedema,3|5|Tracy;Jeremy
-3,6,Que Será Será,George,Small-cell carcinoma,3|6|George
-3,7,Son of Coma Guy,Kyle Wozniak,MERRF syndrome,3|7|Kyle Wozniak
-3,8,Whac-A-Mole,Jack Walters,Chronic granulomatous disease,3|8|Jack Walters
-3,9,Finding Judas,Alice Hartman,Erythropoietic protoporphyria,3|9|Alice Hartman
-3,10,Merry Little Christmas,Abigail Ralphean,Langerhans cell histiocytosis,3|10|Abigail Ralphean
-3,11,Words and Deeds,Derek Hoyt,Spinal Meningioma,3|11|Derek Hoyt
-3,12,One Day One Room,Ear Patient,Cockroach in ear,3|12|Ear Patient
-3,12,One Day One Room,Paciente,Athlete's foot in nose,3|12|Paciente
-3,12,One Day One Room,Eve,Chlamydia and Pregnancy,3|12|Eve
-3,12,One Day One Room,Paciente,Swallowed a magnet,3|12|Paciente
-3,13,Needle in a Haystack,Stevie Lipa,Bleeding from swallowed toothpick,3|13|Stevie Lipa
-3,14,Insensitive,Hannah Morgenthal,Vitamin B12 deficiency due to Tapeworm,3|14|Hannah Morgenthal
-3,15,Half-Wit,Patrick Obyedkov,Takayasu's arteritis,3|15|Patrick Obyedkov
-3,16,Top Secret,John Kelley,Hereditary hemorrhagic telangiectasia,3|16|John Kelley
-3,17,Fetal Position,Emma Sloan,Maternal mirror syndrome from Non-immune hydrops fetalis due to Congenital cystic adenomatoid malformation,3|17|Emma Sloan
-3,18,Airborne,Fran,Methyl bromide poisoning,3|18|Fran
-3,18,Airborne,Peng,Decompression sickness,3|18|Peng
-3,19,Act Your Age,Jasper;Lucy,Exposure to testosterone causing precocious puberty,3|19|Jasper;Lucy
-3,20,House Training,Lupe,Sepsis from Staphylococcus infection,3|20|Lupe
-3,21,Family,Matty,Histoplasmosis,3|21|Matty
-3,22,Resignation,Addie,Infection from artery/vein fistula in intestine as the result of ingestion of caustic substance in suicide attempt.,3|22|Addie
-3,23,The Jerk,Nate,Hemochromatosis,3|23|Nate
-3,24,Human Error,Marina Hernandez,Infected third ostium,3|24|Marina Hernandez
-4,1,Alone,Liz Masters,Medicine interaction; delirium tremens;contraceptive pill related internal bleeding;allergic reaction to antibiotics,4|1|Liz Masters
-4,2,The Right Stuff,Greta Cooper,Von Hippel-Lindau syndrome,4|2|Greta Cooper
-4,3,97 Seconds,Thomas Stark,Strongyloides,4|3|Thomas Stark
-4,4,Guardian Angels,Irene,Ergot poisoning,4|4|Irene
-4,5,Mirror Mirror,Robert Elliot,Eperythrozoon infection,4|5|Robert Elliot
-4,6,Whatever It Takes,Casey Alfonso,Heat stroke complicated by thallium poisoning,4|6|Casey Alfonso
-4,6,Whatever It Takes,John,Selenium poisoning,4|6|John
-4,7,Ugly,Kenny,Lyme disease,4|7|Kenny
-4,8,You Don't Want to Know,Flynn,Lupus,4|8|Flynn
-4,9,Games,Jimmy Quidd,Measles,4|9|Jimmy Quidd
-4,10,It's a Wonderful Lie,Maggie,Atypical presentation of breast cancer,4|10|Maggie
-4,11,Frozen,Dr. Cate Milton,Fat embolism from broken toe,4|11|Dr. Cate Milton
-4,12,Don't Ever Change,Roz,Floating kidney,4|12|Roz
-4,13,No More Mr. Nice Guy,Jeff,Chagas Disease,4|13|Jeff
-4,14,Living the Dream,Evan Greer,Quinine allergy,4|14|Evan Greer
-4,15,House's Head,Bus driver,Air embolism,4|15|Bus driver
-4,16,Wilson's Heart,Amber Volakis,Accidental Amantadine overdose due to kidney injury resulting in multiple organ failure,4|16|Amber Volakis
-5,1,Dying Changes Everything,Lou,Lepromatous leprosy,5|1|Lou
-5,2,Not Cancer,Apple,Transplanted cancerous stem cells,5|2|Apple
-5,3,Adverse Events,Brandon,Food Boli Bezoar,5|3|Brandon
-5,4,Birthmarks,Nicole,Insertion of large number of pins through skull and into brain shortly after birth,5|4|Nicole
-5,5,Lucky Thirteen,Spencer,Sjögren's syndrome,5|5|Spencer
-5,6,Joy,Jerry Harmon;Samantha Harmon,Familial Mediterranean fever,5|6|Jerry Harmon;Samantha Harmon
-5,7,The Itch,Stewart Nozick,Lead poisoning,5|7|Stewart Nozick
-5,8,Emancipation,Sophia Isabel Velez,Acute promyelocytic leukemia,5|8|Sophia Isabel Velez
-5,8,Emancipation,Jonah,Iron toxicity,5|8|Jonah
-5,9,Last Resort,Jason,Melioidosis,5|9|Jason
+season_no,episode_no,Episode_name,Patient(s),Final_diagnose(s),episode_key
+1,1,Pilot,Rebecca Adler,Neurocysticercosis,1|1
+1,2,Paternity,Dan Subacute,sclerosing panencephalitis,1|2
+1,3,Occam's Razor,Brandon Merrell,Colchicine poisoning,1|3
+1,4,Maternity,Baby Girl Hartig;Baby Boy Howson;Baby Boy Chen-Lupino;X,Echovirus 11,1|4
+1,5,Damned If You Do,Sister Mary Augustine,Allergic reaction to copper IUD,1|5
+1,6,The Socratic Method,Lucy Palmeiro,Vitamin K deficiency;liver cancer;Wilson's disease,1|6
+1,7,Fidelity,Elise Snow,African trypanosomiasis,1|7
+1,8,Poison,Matt Davis;Chi Ling,Organophosphate poisoning,1|8
+1,9,DNR,John Henry Giles,Arteriovenous malformation,1|9
+1,10,Histories,Victoria Madsen,Rabies,1|10
+1,11,Detox,Keith Foster,Naphthalene poisoning,1|11
+1,12,Sports Medicine,Hank Wiggen,Cadmium poisoning,1|12
+1,13,Cursed,Gabriel Reilich,Leprosy,1|13
+1,14,Control,Carly Forlano,Congestive heart failure due to drug abuse,1|14 
+1,15,Mob Rules,Joey Arnello,Ornithine Transcarbamylase Deficiency,1|15 
+1,16,Heavy,Jessica Simms,Cushing's disease,1|16 
+1,17,Role Model,Gary H. Wright,Common variable immunodeficiency disease from interaction of Epstein-Barr virus with anti-seizure medication,1|17
+1,18,Babies & Bathwater,Naomi Randolph,Small-cell lung cancer,1|18 
+1,19,Kids,Mary Carroll,Thrombotic thrombocytopenic purpura,1|19 
+1,20,Love Hurts,Harvey Park,Fulminating osteomyelitis,1|20 
+1,21,Three Stories,The Farmer;Volleyball Player;Carmen Electra/Middle aged man/Gregory House,Necrotizing fasciitis;Cancerous adenoma;Necrosis due to muscle death due to infarction due to clot due to aneurysm,1|21
+1,22,Honeymoon,Mark Warner,Acute intermittent porphyria,1|22
+2,1,Acceptance,Clarence,Pheochromocytoma,2|1
+2,2,Autopsy,Andie,Brain thrombosis,2|2
+2,3,Humpty Dumpty,Alfredo,Psittacosis,2|3
+2,4,TB or Not TB,Dr. Sebastian Charles,Nesidioblastoma,2|4
+2,5,Daddy's Boy,Carnell Hall,Radiation induced cavernous angioma and radiation sickness,2|5
+2,6,Spin,Jeff Forster,Myasthenia gravis;pure red cell aplasia;thymoma,2|6
+2,7,Hunting,Kalvin Ryan,Echinococcosis,2|7
+2,8,The Mistake,Kayla McGinley,Behcet's disease;Perforated ulcer;sepsis;liver failure;hepatoma,2|8
+2,9,Deception,Anica Jovanovich,Clostridium perfringens infection;Münchausen syndrome,2|9
+2,10,Failure to Communicate,Fletcher Stone,Cerebral Malaria,2|10
+2,11,Need to Know,Margo Dalton,Hepatocellular adenoma,2|11
+2,12,Distractions,Adam,Serotonin syndrome,2|12
+2,13,Skin Deep,Alex,Testicular cancer,2|13
+2,14,Sex Kills,Howard Hesseman,Brucellosis,2|14
+2,15,Clueless,Bob Palko,Gold poisoning,2|15
+2,16,Safe,Melinda Bardach,Tick paralysis,2|16
+2,17,All In,Ian Alston,Erdheim-Chester disease,2|17
+2,18,Sleeping Dogs Lie,Hannah,Bubonic plague,2|18
+2,19,House vs. God,Boyd,Tuberous sclerosis;Herpes encephalitis,2|19
+2,20,Euphoria (Part 1),Joe Luria,Legionellosis,2|20
+2,21,Euphoria (Part 2),Eric Foreman,Legionellosis (induced) and Primary amoebic meningoencephalitis,2|21
+2,22,Forever,Kara Mason,Pellagra and Vitamin K deficiency caused by Celiac disease,2|22
+2,23,Who's Your Daddy?,Leona,Zygomycosis,2|23
+2,24,No Reason,Gregory House,Hallucination from trauma,2|24
+3,1,Meaning,Richard McNeil;Caren Krause,Addison's Disease;Scurvy,3|1
+3,2,Cane & Able,Clancy Green,Chimerism,3|2
+3,3,Informed Consent,Ezra Powell,Senile amyloidosis,3|3
+3,4,Lines in the Sand,Adam Kelvey,Baylisascaris,3|4
+3,5,Fools for Love,Tracy;Jeremy,Hereditary Angioedema,3|5
+3,6,Que Será Será,George,Small-cell carcinoma,3|6
+3,7,Son of Coma Guy,Kyle Wozniak,MERRF syndrome,3|7
+3,8,Whac-A-Mole,Jack Walters,Chronic granulomatous disease,3|8
+3,9,Finding Judas,Alice Hartman,Erythropoietic protoporphyria,3|9
+3,10,Merry Little Christmas,Abigail Ralphean,Langerhans cell histiocytosis,3|10
+3,11,Words and Deeds,Derek Hoyt,Spinal Meningioma,3|11
+3,12,One Day One Room,Ear Patient;Paciente;Eve;Paciente,Cockroach in ear;Athlete's foot in nose;Chlamydia and Pregnancy;Swallowed a magnet,3|12
+3,13,Needle in a Haystack,Stevie Lipa,Bleeding from swallowed toothpick,3|13
+3,14,Insensitive,Hannah Morgenthal,Vitamin B12 deficiency due to Tapeworm,3|14
+3,15,Half-Wit,Patrick Obyedkov,Takayasu's arteritis,3|15
+3,16,Top Secret,John Kelley,Hereditary hemorrhagic telangiectasia,3|16
+3,17,Fetal Position,Emma Sloan,Maternal mirror syndrome from Non-immune hydrops fetalis due to Congenital cystic adenomatoid malformation,3|17
+3,18,Airborne,Fran;Peng,Methyl bromide poisoning;Decompression sickness,3|18
+3,19,Act Your Age,Jasper;Lucy,Exposure to testosterone causing precocious puberty,3|19
+3,20,House Training,Lupe,Sepsis from Staphylococcus infection,3|20
+3,21,Family,Matty,Histoplasmosis,3|21
+3,22,Resignation,Addie,Infection from artery/vein fistula in intestine as the result of ingestion of caustic substance in suicide attempt.,3|22
+3,23,The Jerk,Nate,Hemochromatosis,3|23
+3,24,Human Error,Marina Hernandez,Infected third ostium,3|24 
+4,1,Alone,Liz Masters,Medicine interaction; delirium tremens;contraceptive pill related internal bleeding;allergic reaction to antibiotics,4|1
+4,2,The Right Stuff,Greta Cooper,Von Hippel-Lindau syndrome,4|2 
+4,3,97 Seconds,Thomas Stark,Strongyloides,4|3 
+4,4,Guardian Angels,Irene,Ergot poisoning,4|4
+4,5,Mirror Mirror,Robert Elliot,Eperythrozoon infection,4|5 
+4,6,Whatever It Takes,Casey Alfonso;John,Heat stroke complicated by thallium poisoning;Selenium poisoning,4|6 
+4,7,Ugly,Kenny,Lyme disease,4|7
+4,8,You Don't Want to Know,Flynn,Lupus,4|8
+4,9,Games,Jimmy Quidd,Measles,4|9
+4,10,It's a Wonderful Lie,Maggie,Atypical presentation of breast cancer,4|10
+4,11,Frozen,Dr. Cate Milton,Fat embolism from broken toe,4|11
+4,12,Don't Ever Change,Roz,Floating kidney,4|12
+4,13,No More Mr. Nice Guy,Jeff,Chagas Disease,4|13
+4,14,Living the Dream,Evan Greer,Quinine allergy,4|14
+4,15,House's Head,Bus driver,Air embolism,4|15
+4,16,Wilson's Heart,Amber Volakis,Accidental Amantadine overdose due to kidney injury resulting in multiple organ failure,4|16
+5,1,Dying Changes Everything,Lou,Lepromatous leprosy,5|1
+5,2,Not Cancer,Apple,Transplanted cancerous stem cells,5|2
+5,3,Adverse Events,Brandon,Food Boli Bezoar,5|3
+5,4,Birthmarks,Nicole,Insertion of large number of pins through skull and into brain shortly after birth,5|4
+5,5,Lucky Thirteen,Spencer,Sjögren's syndrome,5|5
+5,6,Joy,Jerry Harmon;Samantha Harmon,Familial Mediterranean fever,5|6
+5,7,The Itch,Stewart Nozick,Lead poisoning,5|7
+5,8,Emancipation,Sophia Isabel Velez;Jonah,Acute promyelocytic leukemia;Iron toxicity,5|8
+5,9,Last Resort,Jason,Melioidosis,5|9
 5,10,Let Them Eat Cake,Emmy,Hereditary coproporphyria,5|10|Emmy
-5,11,Joy to the World,Natalie Soellner,Eclampsia,5|11|Natalie Soellner
-5,12,Painless,Jeff,Abdominal Epilepsy,5|12|Jeff
-5,13,Big Baby,Sarah,Patent ductus arteriosus,5|13|Sarah
-5,14,The Greater Good,Dana Miller,Ectopic endometriosis,5|14|Dana Miller
-5,15,Unfaithful,Daniel Bresson,Wiskott-Aldrich Syndrome,5|15|Daniel Bresson
-5,16,The Softer Side,Jackson Smith,Kidney dysfunction secondary to dehydration and contrast-induced nephropathy,5|16|Jackson Smith
-5,17,The Social Contract,Nick Greenwald,Autoimmunity secondary to Doege-Potter syndrome,5|17|Nick Greenwald
-5,18,Here Kitty,Morgan West,Appendiceal carcinoid,5|18|Morgan West
-5,19,Locked In,Lee,Locked-in syndrome secondary to leptospirosis,5|19|Lee
-5,20,Simple Explanation,Charlotte and Eddie Novack,Visceral leishmaniasis (Charlotte) and Blastomycosis (Eddie),5|20|Charlotte and Eddie Novack
-5,21,Saviors,Doug Svensen,Sporotrichosis,5|21|Doug Svensen
-5,22,House Divided,Seth Miller,Sarcoidosis,5|22|Seth Miller
-5,23,Under My Skin,Penelope,Gonorrhea (Penelope),5|23|Penelope
-5,23,Under My Skin,House,Vicodin addiction (House),5|23|House
-5,24,Both Sides Now,Scott,Propylene glycol toxicity (Scott),5|24|Scott
-5,24,Both Sides Now,Eugene Schwartz,Pancreatic tumor (Eugene Schwartz),5|24|Eugene Schwartz
-5,24,Both Sides Now,House,Psychosis (House),5|24|House
-6,3,Epic Fail,Vince Pearson,Fabry disease,6|3|Vince Pearson
-6,4,The Tyrant,President Dibala,Blastomycosis (Dibala),6|4|President Dibala
-6,4,The Tyrant,Murphy,phantom limb (Murphy),6|4|Murphy
-6,5,Instant Karma,Jack Randall,Primary Antiphospholipid syndrome,6|5|Jack Randall
-6,6,Brave Heart,Donny Compson,Intracranial berry aneurysm of the brain stem,6|6|Donny Compson
-6,7,Known Unknowns,Jordan,Vibrio vulnificus and hemochromatosis,6|7|Jordan
-6,8,Teamwork,Hank Hardwick,Crohn's disease,6|8|Hank Hardwick
-6,9,Ignorance is Bliss,James Sidas,Thrombotic thrombocytopenic purpura and multiple accessory spleens,6|9|James Sidas
-6,10,Wilson,Tucker,Acute lymphoblastic leukemia,6|10|Tucker
-6,11,The Down Low,Mickey,Hughes-Stovin syndrome,6|11|Mickey
-6,12,Remorse,Valerie,Psychopathy secondary to Wilson's disease,6|12|Valerie
-6,13,Moving the Chains,Daryl,Paraneoplastic syndrome secondary to melanoma,6|13|Daryl
-6,15,Private Lives,Frankie,Whipple's disease,6|15|Frankie
-6,16,Black Hole,Abby Nash,Cerebellar schistosomiasis delayed hypersensitivity allergy,6|16|Abby Nash
-6,18,Knight Fall,Sir William,Anabolic steroid abuse accelerated by hemlock poison,6|18|Sir William
-6,19,Open and Shut,Julia,Henoch-Schönlein Purpura,6|19|Julia
-6,20,The Choice,Ted,Arnold-Chiari Malformation,6|20|Ted
-6,21,Baggage,Sidney,Allergic reaction to tattoo ink,6|21|Sidney
-6,22,Help Me,Hanna,Fat embolism due to amputation (Hannah),6|22|Hanna
-6,22,Help Me,Jay,Arachnoid cyst on lower spine (Jay),6|22|Jay
-7,1,Now What?,Dr. Richardson,Toad egg toxicity,7|1|Dr. Richardson
-7,2,Selfish,Della,Sickle cell trait,7|2|Della
-7,3,Unwritten,Alice Tanner,Trauma-related syringomyelia,7|3|Alice Tanner
-7,4,Massage Therapy,Margaret McPherson,Side effects of risperidone; schizophrenia,7|4|Margaret McPherson
-7,5,Unplanned Parenthood,Abbey,Pulmonary embolism secondary to lung cancer and melanoma (Abbey),7|5|Abbey
-7,5,Unplanned Parenthood,Kayla,hereditary melanoma (Kayla),7|5|Kayla
-7,6,Office Politics,Joe Dugan,Hepatitis C,7|6|Joe Dugan
-7,7,A Pox on Our House,Julie,Rickettsialpox,7|7|Julie
-7,8,Small Sacrifices,Ramon Silva,Marburg multiple sclerosis; malnutrition,7|8|Ramon Silva
-7,9,Larger than Life,Jack,Varicella,7|9|Jack
-7,10,Carrot or Stick,Driscoll and Landon Parks,Variegate porphyria,7|10|Driscoll and Landon Parks
-7,11,Family Practice,Arlene Cuddy,Cobalt poisoning secondary to metallosis,7|11|Arlene Cuddy
-7,12,You Must Remember This,Nadia,McLeod syndrome causing Obsessive-Compulsive Disorder,7|12|Nadia
-7,13,Two Stories,Phillip Wright,Food lodged in the lung,7|13|Phillip Wright
-7,14,Recession Proof,Bert Eskey,Muckle-Wells syndrome,7|14|Bert Eskey
-7,15,Bombshells,Ryan,Staphylococcus from an abscess (Ryan),7|15|Ryan
-7,15,Bombshells,Cuddy,Benign tumor in the kidney; antibiotic allergy (Cuddy),7|15|Cuddy
-7,16,Out of the Chute,Lane,Bartonella,7|16|Lane
-7,17,Fall From Grace,Danny Jennings,Adult Refsum disease,7|17|Danny Jennings
-7,18,The Dig,Nina,Ehlers-Danlos Syndrome leading to compulsive hoarding; Q fever (Nina);,7|18|Nina
-7,18,The Dig,Brian,Q fever (Brian),7|18|Brian
-7,19,Last Temptation,Kendall Pearson,Lymphosarcoma,7|19|Kendall Pearson
-7,20,Changes,Cyrus Harry,Teratoma,7|20|Cyrus Harry
-7,21,The Fix,Dr. Wendy Lee,Spanish fly (cantharides) poisoning (Wendy),7|21|Dr. Wendy Lee
-7,21,The Fix,Terry Foley,Glomus tumor (Terry),7|21|Terry Foley
-7,22,After Hours,Darrien,Entamoeba,7|22|Darrien
-7,23,Moving On,Afsoun Hamidi,Granulomatosis with polyangiitis,7|23|Afsoun Hamidi
-8,1,Twenty Vicodin,Nick,Mastocytosis,8|1|Nick
-8,2,Transplant,Two lungs in a box,Eosinophilic pneumonitis,8|2|Two lungs in a box
-8,3,Charity Case,Benjamin Byrd,Plummer's disease,8|3|Benjamin Byrd
-8,4,Risky Business,Thad Barton,Hyperviscosity syndrome secondary to rheumatoid arthritis,8|4|Thad Barton
-8,5,The Confession,Bob Harris,Kawasaki disease,8|5|Bob Harris
-8,6,Parents,Ben Parker,Syphilis and Jarisch-Herxheimer reaction,8|6|Ben Parker
-8,7,Dead & Buried,Iris,Choriocarcinoma and Dissociative identity disorder (Iris),8|7|Iris
-8,7,Dead & Buried,Drew Lemayne,Alport syndrome (Drew),8|7|Drew Lemayne
-8,8,Perils of Paranoia,Tommy,Diphtheria,8|8|Tommy
-8,9,Better Half,Andres Tavares,Reye's syndrome,8|9|Andres Tavares
-8,10,Runaways,Callie Rogers,Ascariasis,8|10|Callie Rogers
-8,11,Nobody's Fault,Bill Koppelman,Tumor lysis syndrome and steroid-induced psychosis,8|11|Bill Koppelman
+5,11,Joy to the World,Natalie Soellner,Eclampsia,5|11
+5,12,Painless,Jeff,Abdominal Epilepsy,5|12
+5,13,Big Baby,Sarah,Patent ductus arteriosus,5|13
+5,14,The Greater Good,Dana Miller,Ectopic endometriosis,5|14
+5,15,Unfaithful,Daniel Bresson,Wiskott-Aldrich Syndrome,5|15
+5,16,The Softer Side,Jackson Smith,Kidney dysfunction secondary to dehydration and contrast-induced nephropathy,5|16
+5,17,The Social Contract,Nick Greenwald,Autoimmunity secondary to Doege-Potter syndrome,5|17
+5,18,Here Kitty,Morgan West,Appendiceal carcinoid,5|18|
+5,19,Locked In,Lee,Locked-in syndrome secondary to leptospirosis,5|19
+5,20,Simple Explanation,Charlotte and Eddie Novack,Visceral leishmaniasis (Charlotte) and Blastomycosis (Eddie),5|20
+5,21,Saviors,Doug Svensen,Sporotrichosis,5|21 
+5,22,House Divided,Seth Miller,Sarcoidosis,5|22 
+5,23,Under My Skin,Penelope;House,Gonorrhea (Penelope);Vicodin addiction (House),5|23
+5,24,Both Sides Now,Scott;Eugene Schwartz;House,Propylene glycol toxicity (Scott);Pancreatic tumor (Eugene Schwartz);Psychosis (House),5|24
+Episode Sex 
+Age 
+(Years) 
+Duration 
+(Min) 
+Examinations and 
+Interventions (n) Final Diagnosis Outcome 
+Viewers 
+(Audience %) 
+1 42:53 33 
+2 44:22 33 
+3 Male 40 41:59 13 Fabry disease Alive 33 
+4 Male 83 43:03 9 Uncertain Dead 32 
+5 Male 39 42:39 7 Cerebral aneurysm Alive 32 
+6 Male 10 42:53 15 Antiphospholipid antibody syndrome Alive 33 
+7 Female 16 43:04 7 Hemochromatosis Alive 33 
+8 Male 40 42:55 18 Crohn disease Alive 33 
+9 Male 32 43:02 15 Supernumerary spleen Alive 35 
+10 Male 52 42:58 10 Acute lymphoblastic leukemia Alive 31 
+11 Male 35 42:49 15 Hughes-Stovin syndrome Dead 33 
+12 Female 35 42:52 9 Wilson disease Alive 33 
+13 Male 22 43:13 17 Melanoma Alive 35 
+14 43:02 32 
+15 Female 28 42:12 11 Whipple disease Alive 35 
+16 Female 18 42:05 14 Schistosomiasis Alive 35 
+17 42:12 36 
+18 Male 23 42:14 17 Intoxication Alive 30 
+19 Female 35 42:12 21 Rheumatic purpura Alive 33 
+20 Male 27 42:11 14 Arnold Chiari deformity Alive 33 
+21 Female 30 42:13 7 Allergy Alive 33 
+22 Male 21 43:11 6 Arachnoidea cyst Alive 33 
+Episodes 1, 2, 14, and 17 we
+6,3,Epic Fail,Vince Pearson,Fabry disease,6|3 
+6,4,The Tyrant,President Dibala;Murphy,Blastomycosis (Dibala);phantom limb (Murphy),6|4 
+6,5,Instant Karma,Jack Randall,Primary Antiphospholipid syndrome,6|5 
+6,6,Brave Heart,Donny Compson,Intracranial berry aneurysm of the brain stem,6|6 
+6,7,Known Unknowns,Jordan,Vibrio vulnificus and hemochromatosis,6|7
+6,8,Teamwork,Hank Hardwick,Crohn's disease,6|8 
+6,9,Ignorance is Bliss,James Sidas,Thrombotic thrombocytopenic purpura and multiple accessory spleens,6|9 
+6,10,Wilson,Tucker,Acute lymphoblastic leukemia,6|10
+6,11,The Down Low,Mickey,Hughes-Stovin syndrome,6|11
+6,12,Remorse,Valerie,Psychopathy secondary to Wilson's disease,6|12
+6,13,Moving the Chains,Daryl,Paraneoplastic syndrome secondary to melanoma,6|13
+6,15,Private Lives,Frankie,Whipple's disease,6|15
+6,16,Black Hole,Abby Nash,Cerebellar schistosomiasis delayed hypersensitivity allergy,6|16 
+6,18,Knight Fall,Sir William,Anabolic steroid abuse accelerated by hemlock poison,6|18 
+6,19,Open and Shut,Julia,Henoch-Schönlein Purpura,6|19
+6,20,The Choice,Ted,Arnold-Chiari Malformation,6|20
+6,21,Baggage,Sidney,Allergic reaction to tattoo ink,6|21
+6,22,Help Me,Hanna;Jay,Fat embolism due to amputation (Hannah);Arachnoid cyst on lower spine (Jay),6|22
+6,22,Help Me,,,6|22
+7,1,Now What?,Dr. Richardson,Toad egg toxicity,7|1
+7,2,Selfish,Della,Sickle cell trait,7|2
+7,3,Unwritten,Alice Tanner,Trauma-related syringomyelia,7|3 
+7,4,Massage Therapy,Margaret McPherson,Side effects of risperidone; schizophrenia,7|4 
+7,5,Unplanned Parenthood,Abbey;Kayla,Pulmonary embolism secondary to lung cancer and melanoma (Abbey);hereditary melanoma (Kayla),7|5
+7,6,Office Politics,Joe Dugan,Hepatitis C,7|6 
+7,7,A Pox on Our House,Julie,Rickettsialpox,7|7
+7,8,Small Sacrifices,Ramon Silva,Marburg multiple sclerosis; malnutrition,7|8 
+7,9,Larger than Life,Jack,Varicella,7|9
+7,10,Carrot or Stick,Driscoll and Landon Parks,Variegate porphyria,7|10
+7,11,Family Practice,Arlene Cuddy,Cobalt poisoning secondary to metallosis,7|11 
+7,12,You Must Remember This,Nadia,McLeod syndrome causing Obsessive-Compulsive Disorder,7|12
+7,13,Two Stories,Phillip Wright,Food lodged in the lung,7|13 
+7,14,Recession Proof,Bert Eskey,Muckle-Wells syndrome,7|14 
+7,15,Bombshells,Ryan<Cuddy,Staphylococcus from an abscess (Ryan)<Benign tumor in the kidney; antibiotic allergy (Cuddy),7|15
+7,16,Out of the Chute,Lane,Bartonella,7|16
+7,17,Fall From Grace,Danny Jennings,Adult Refsum disease,7|17
+7,18,The Dig,Nina;Brian,Ehlers-Danlos Syndrome leading to compulsive hoarding; Q fever (Nina);Q fever (Brian),7|18
+7,19,Last Temptation,Kendall Pearson,Lymphosarcoma,7|19
+7,20,Changes,Cyrus Harry,Teratoma,7|20
+7,21,The Fix,Dr. Wendy Lee;Terry Foley,Spanish fly (cantharides) poisoning (Wendy);Glomus tumor (Terry),7|21
+7,22,After Hours,Darrien,Entamoeba,7|22
+7,23,Moving On,Afsoun Hamidi,Granulomatosis with polyangiitis,7|23
+8,1,Twenty Vicodin,Nick,Mastocytosis,8|1
+8,2,Transplant,Two lungs in a box,Eosinophilic pneumonitis,8|2
+8,3,Charity Case,Benjamin Byrd,Plummer's disease,8|3 
+8,4,Risky Business,Thad Barton,Hyperviscosity syndrome secondary to rheumatoid arthritis,8|4 
+8,5,The Confession,Bob Harris,Kawasaki disease,8|5 
+8,6,Parents,Ben Parker,Syphilis and Jarisch-Herxheimer reaction,8|6 
+8,7,Dead & Buried,Iris;Drew Lemayne,Choriocarcinoma and Dissociative identity disorder (Iris);Alport syndrome (Drew),8|7
+8,8,Perils of Paranoia,Tommy,Diphtheria,8|8
+8,9,Better Half,Andres Tavares,Reye's syndrome,8|9 
+8,10,Runaways,Callie Rogers,Ascariasis,8|10 
+8,11,Nobody's Fault,Bill Koppelman,Tumor lysis syndrome and steroid-induced psychosis,8|11 
 8,12,Chase,Moira Parker,Giant cell arteritis,8|12|Moira Parker
-8,13,Man of the House,Joe Reese,Silent thyroiditis secondary to polyglandular autoimmune syndrome type III,8|13|Joe Reese
-8,14,Love is Blind,Will Westwood,Mucormycosis,8|14|Will Westwood
-8,15,Blowing the Whistle,Brant Macklin,Typhus,8|15|Brant Macklin
-8,16,Gut Check,Bobby Hatcher,Miller Fisher syndrome,8|16|Bobby Hatcher
-8,17,We Need the Eggs,Henry,Amoebic meningitis,8|17|Henry
-8,18,Body and Soul,Lue,Patent ductus arteriosus,8|18|Lue
-8,19,The C Word,Emily Lawson,Atrial myxoma,8|19|Emily Lawson
-8,20,Post Mortem,Dr. Penza,Hypothyroidism secondary to repeated triclosan and caffeine exposure,8|20|Dr. Penza
-8,21,Holding On,Derrick,Persistent stapedial artery,8|21|Derrick
-8,22,Everybody Dies,Oliver,Autoimmune response to an inhaled piece of plant matter,8|22|Oliver
+8,13,Man of the House,Joe Reese,Silent thyroiditis secondary to polyglandular autoimmune syndrome type III,8|13 
+8,14,Love is Blind,Will Westwood,Mucormycosis,8|14 
+8,15,Blowing the Whistle,Brant Macklin,Typhus,8|15 
+8,16,Gut Check,Bobby Hatcher,Miller Fisher syndrome,8|16 
+8,17,We Need the Eggs,Henry,Amoebic meningitis,8|17
+8,18,Body and Soul,Lue,Patent ductus arteriosus,8|18
+8,19,The C Word,Emily Lawson,Atrial myxoma,8|19 
+8,20,Post Mortem,Dr. Penza,Hypothyroidism secondary to repeated triclosan and caffeine exposure,8|20
+8,21,Holding On,Derrick,Persistent stapedial artery,8|21
+8,22,Everybody Dies,Oliver,Autoimmune response to an inhaled piece of plant matter,8|22
