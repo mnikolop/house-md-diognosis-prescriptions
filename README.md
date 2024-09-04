@@ -5,7 +5,7 @@ I am suspecting that they have been perscribing the same medication for differen
 Original list of episodes and dignoses sourced from [here](https://house.fandom.com/wiki/List_of_medical_diagnoses)
 
 
-https://transcripts.foreverdreaming.org/viewtopic.php?p=147443#p147443
+https://transcripts.foreverdreaming.org/viewtopic.php?p=147443#p147443 (remove entries stating with [; split on character :)
 
 https://pypi.org/project/medspacy/
 
