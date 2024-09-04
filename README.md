@@ -10,3 +10,8 @@ https://transcripts.foreverdreaming.org/viewtopic.php?p=147443#p147443
 https://pypi.org/project/medspacy/
 
 https://spacy.io/usage/spacy-101
+
+
+https://www.andrewvillazon.com/clinical-natural-language-processing-python/
+
+https://allenai.github.io/scispacy/
