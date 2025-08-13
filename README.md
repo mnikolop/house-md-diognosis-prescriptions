@@ -1,9 +1,16 @@
 # house-md-diognosis-prescriptions
 
-I am suspecting that they have been perscribing the same medication for different diognosis as well as different medications for the same diagnosis.
+This project is aimed to use text mining to identify all the potential diagnoses and their medical interventions used in the TV series House.Md.   
 
-Original list of episodes and dignoses sourced from [here](https://house.fandom.com/wiki/List_of_medical_diagnoses)
+After all the data is gahtered an analysis will be doen to identify if the same medication is used for multiple diagnoses and how many times each diagnoses and madication is used throught the show.   
 
+Original list of episodes and final dignoses are sourced from [here](https://house.fandom.com/wiki/List_of_medical_diagnoses).
+
+The data is stored in csv files.
+
+
+## Apendix
+### Links & resources
 
 https://transcripts.foreverdreaming.org/viewtopic.php?p=147443#p147443 (remove entries stating with [; split on character :)
 
